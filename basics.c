@@ -2,7 +2,7 @@
 int main()
 {
 
- printf("Let us learn git basics");
+ printf("Let us learn git basics")
 return 0;
 }
 
